@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Huffman Keyboard</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="huffman_keyboard_settings">Huffman Keybaord Settings</string>
+    <string name="huffman_keyboard_name">Huffman Keyboard</string>
+</resources>

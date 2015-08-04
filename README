@@ -1,0 +1,5 @@
+Huffman Keyboard
+================
+The Huffman Keyboard uses [Huffman Coding](https://en.wikipedia.org/wiki/Huffman_coding) to let
+users efficiently select a character with the minimum average number of keypresses.
+
